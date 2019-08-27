@@ -1,0 +1,8 @@
+prefix=/home/sz/carrot_racecar/devel
+
+Name: car
+Description: Description of car
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sz/carrot_racecar/devel/lib 
+Requires: 

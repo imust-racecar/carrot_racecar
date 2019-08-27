@@ -1,0 +1,8 @@
+{
+	"remoteArgs": {
+		"host": "192.168.5.101",
+		"user": "sz",
+		"keyfile": "/home/gm/.ssh/id_rsa3",
+		"cwd": "/home/sz/carrot_racecar"
+	}
+}

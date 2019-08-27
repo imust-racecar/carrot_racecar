@@ -1,0 +1,38 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "C++",
+			"type": "gdb",
+			"request": "launch",
+			"target": "${file}",
+			"cwd": "${workspaceRoot}"
+		},
+		{
+			"name": "C++ (remote)",
+			"type": "gdb",
+			"request": "launch",
+			"target": "dev${relativeFile}",
+			"cwd": "${workspaceRoot}",
+			"ssh": {
+				"host": "192.168.5.101",
+				"user": "sz",
+				"keyfile": "/home/gm/.ssh/id_rsa3",
+				"cwd": "/home/sz/carrot_racecar"
+			}
+		},
+		{
+			"name": "Python",
+			"type": "python",
+			"request": "launch",
+			"stopOnEntry": true,
+			"pythonPath": "${config:python.pythonPath}",
+			"program": "${file}",
+			"debugOptions": [
+				"WaitOnAbnormalExit",
+				"WaitOnNormalExit",
+				"RedirectOutput"
+			]
+		}
+	]
+}

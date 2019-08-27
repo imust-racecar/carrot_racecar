@@ -1,0 +1,8 @@
+prefix=/home/r3v334/carrot_racecar/devel
+
+Name: imu
+Description: Description of imu
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/r3v334/carrot_racecar/devel/lib 
+Requires: 

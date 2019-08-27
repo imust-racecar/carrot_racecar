@@ -1,0 +1,13 @@
+"E:\IAR7.4\arm\bin\armproc.dll" 
+
+"E:\IAR7.4\arm\bin\armjlink.dll" 
+
+"C:\Users\Administrator\Desktop\新建文件夹 (2)\室外光电单片机程序\Prj\IAR\KEA128_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "E:\IAR7.4\arm\bin\armbat.dll" 
+
+--device_macro "E:\IAR7.4\arm\config\debugger\Freescale\KExx.dmac" 
+
+
+
+

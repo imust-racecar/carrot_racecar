@@ -1,8 +1,0 @@
-prefix=/home/r3v334/carrot_racecar/devel
-
-Name: controller
-Description: Description of controller
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/r3v334/carrot_racecar/devel/lib 
-Requires: 

@@ -1,2 +1,0 @@
-car:controller:imu:lidar:rf2o_laser_odometry:robot_localization
--DCATKIN_DEVEL_PREFIX=/home/r3v334/carrot_racecar/devel -DCMAKE_INSTALL_PREFIX=/home/r3v334/carrot_racecar/install -G Unix Makefiles
